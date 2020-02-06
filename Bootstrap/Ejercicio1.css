@@ -1,0 +1,33 @@
+body{
+    background-color: lightcoral;
+    align-content: center;
+    margin: 10em;
+}
+
+.card-header{
+    background-color: papayawhip;
+}
+
+.card-body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+}
+
+h1{
+    color: rgb(241, 64, 126);
+}
+
+.inputgroup{
+    width: 30em;
+}
+
+.form-group{
+    align-items: center;
+    width: 30em;
+    margin: auto;
+}
+
+#collapseTwo > div > button{
+    background-color: rgba(92, 46, 28, 0.774);
+    transition: linear;
+}

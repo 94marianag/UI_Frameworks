@@ -1,0 +1,25 @@
+body{
+    margin: 12em;
+    background-color: lightblue;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+
+.forma{
+    margin: 1em;
+}
+
+input{
+border-radius: .8em;
+min-width: 20em;
+margin-left: 1em;
+}
+
+label{
+    float: left;
+    text-align-last: right;
+    width: 15em;
+}
+
